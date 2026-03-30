@@ -23,8 +23,7 @@
 ---
 
 ## 📊 Estatísticas
-
-[![GitHub Streak](https://stats.walysondev.online?user=walysonfelipe&theme=highcontrast&locale=pt_BR)](https://git.io/streak-stats)
+![](https://komarev.com/ghpvc/?username=walysonfelipe&color=green)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/walysonfelipe/walysonfelipe/da3df74eb3025f335a74c0ce3392d5f8d3a9018c/snake.svg" />
