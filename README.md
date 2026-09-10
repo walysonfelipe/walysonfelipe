@@ -6,26 +6,48 @@ Gosto de transformar problemas reais em soluções simples, úteis e escaláveis
 
 ### 🛠️ Tecnologias
 
-`JavaScript` · `Vue.js` · `Nuxt.js` · `Next.js` · `Ionic` · `PHP` · `Node.js` · `MySQL` · `Supabase` · `Linux`
+**Front-end:**  
+`HTML` · `CSS` · `JavaScript` · `TypeScript` · `React` · `Vue.js` · `Next.js` · `Nuxt.js` · `Vite`
+
+**Mobile:**  
+`React Native` · `Ionic`
+
+**Back-end e banco de dados:**  
+`Node.js` · `PHP` · `MySQL` · `PostgreSQL` · `Supabase`
+
+**Infraestrutura e ferramentas:**  
+`Git` · `GitHub` · `Linux` · `Docker` · `Nginx` · `Apache` · `VPS`
 
 ### 🚀 Principais projetos
 
 <table>
   <tr>
-    <td width="80" align="center">
-      <img src="https://walysonassis.online/assets/images/logo8.png" width="60" alt="Logo Agenda Unhas">
-    </td>
-    <td>
-      <strong><a href="https://agendaunhas.online">Agenda Unhas</a></strong><br>
+    <td width="50%" align="center">
+      <p align="center">
+        <img
+          src="https://walysonassis.online/assets/images/logo8.png"
+          width="30%"
+          alt="Logo Agenda Unhas"
+        />
+      </p>
+      <strong>
+        <a href="https://agendaunhas.online">Agenda Unhas</a>
+      </strong>
+      <br />
       SaaS de gestão e agendamento para profissionais da beleza.
     </td>
-  </tr>
-  <tr>
-    <td width="80" align="center">
-      <img src="https://walysonassis.online/assets/images/logo5.png" width="60" alt="Logo Portal do Licitante">
-    </td>
-    <td>
-      <strong><a href="https://portaldolicitante.com.br">Portal do Licitante</a></strong><br>
+    <td width="50%" align="center">
+      <p align="center">
+        <img
+          src="https://walysonassis.online/assets/images/logo5.png"
+          width="30%"
+          alt="Logo Portal do Licitante"
+        />
+      </p>
+      <strong>
+        <a href="https://portaldolicitante.com.br">Portal do Licitante</a>
+      </strong>
+      <br />
       Plataforma para organização e gestão de licitações.
     </td>
   </tr>
