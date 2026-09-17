@@ -62,7 +62,7 @@ Gosto de transformar problemas reais em soluções simples, úteis e escaláveis
 ![Visualizações](https://komarev.com/ghpvc/?username=walysonfelipe&color=green)
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/walysonfelipe/walysonfelipe/da3df74eb3025f335a74c0ce3392d5f8d3a9018c/snakee.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/walysonfelipe/walysonfelipe/da3df74eb3025f335a74c0ce3392d5f8d3a9018c/snakee.svg">
-  <img alt="Animação das contribuições no GitHub" src="https://raw.githubusercontent.com/walysonfelipe/walysonfelipe/da3df74eb3025f335a74c0ce3392d5f8d3a9018c/snakee.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/walysonfelipe/walysonfelipe/01880daa507950e625ccbaa9186782002fbcfa7e/snakee.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/walysonfelipe/walysonfelipe/01880daa507950e625ccbaa9186782002fbcfa7e/snakee.svg">
+  <img alt="Animação das contribuições no GitHub" src="https://raw.githubusercontent.com/walysonfelipe/walysonfelipe/01880daa507950e625ccbaa9186782002fbcfa7e/snakee.svg">
 </picture>
